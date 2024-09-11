@@ -1,0 +1,19 @@
+- Task 1: Excel budget analysis:
+  - Created Excel sheet for budget data.
+  - Calculated totals, min, max using built-in functions.
+  - Generated pivot table and visualized with charts.
+
+- Task 2: Python data file creation:
+  - Created CSV and Excel files using Python.
+  - Employed `csv` module for CSV file.
+  - Utilized `pandas` for Excel data frames.
+
+- Task 3: Openpyxl for Excel operations:
+  - Used Openpyxl for Excel file tasks.
+  - Loaded, interacted with sheets, cells, formatting.
+
+- Task 4: Numpy operations performed.
+
+- Task 5: Matplotlib for data visualization.
+
+- Task 6: Sklearn library for analysis.
